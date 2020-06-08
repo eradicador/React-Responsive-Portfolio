@@ -5,14 +5,30 @@
   padding: 7px;
   margin: 7px;
 }
-body, html {
-    height: 100%;
-}
 
 
 .hero-image {
+    background: url("./images/SAM.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
-main{
-width: 40%;
-border: 2px solid green;
+
+
+main {
+    float: left;
+    width: 40%;
+    margin-bottom: 16px;
+    margin-left: 80px;
+    padding: 0 8px;
+    border: 2px solid green;
+    background-color: #ffffff;
+    color: blue;
+}
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
