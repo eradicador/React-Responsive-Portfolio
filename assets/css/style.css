@@ -1,0 +1,27 @@
+.navbar-brand {
+  background-color: #39ff14;
+  width: auto;
+  border: 3px solid green;
+}
+
+body{
+  background-image: url("../images/optical.jpg");
+}
+
+.about-me {
+    float: left;
+    width: 25%;
+    border: 2px solid green;
+}
+
+.h2{
+color: teal;
+}
+
+footer {
+    border-top: 5px solid green;
+    height: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: red
+}
