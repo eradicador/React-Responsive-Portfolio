@@ -6,12 +6,12 @@
 }
 
 body{
-  background-image: url("../images/optical.jpg");
+  background-image: url("../images/crossline-lines.png");
 }
 
 .about-me {
     float: left;
-    width: 25%;
+    width: 250px;
     border: 2px solid green;
 }
 
