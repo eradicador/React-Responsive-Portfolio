@@ -2,6 +2,7 @@
   background-color: #39ff14;
   width: auto;
   border: 3px solid green;
+  padding: 10px;
 }
 
 body{
@@ -17,6 +18,14 @@ body{
 .h2{
 color: teal;
 }
+
+/* .left{
+float: center;
+} */
+
+/* .right{
+  float: right;
+} */
 
 footer {
     border-top: 5px solid green;
