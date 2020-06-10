@@ -1,7 +1,7 @@
 .navbar-brand {
   color: whitesmoke;
   background-color: teal;
-  width: auto;
+  width: 180px;
   border: 1px solid green;
   padding: 10px;
 }
@@ -16,11 +16,12 @@ body{
 }
 
 .h2{
-color: teal;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  color: teal;
 }
 
 .pic-banner{
-  bottom: 15px;
+  bottom: 60px;
   position: relative;
   color: whitesmoke;
   background-color: teal;
