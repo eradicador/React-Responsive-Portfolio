@@ -1,7 +1,7 @@
 .navbar-brand {
   color: whitesmoke;
   background-color: teal;
-  width: 180px;
+  width: 165px;
   border: 1px solid green;
   padding: 10px;
 }
@@ -10,7 +10,7 @@ body{
   background-image: url("../images/crossline-lines.png");
 }
 
-.about-me {
+.my-picture {
     float: left;
     border: 2px solid green;
 }
