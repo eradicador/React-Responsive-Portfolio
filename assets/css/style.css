@@ -6,21 +6,21 @@
   border: 1px solid green;
   padding: 10px;
 }
-
+/* added a background image  */
 body{
   background-image: url("../images/crossline-lines.png");
 }
-
+/* made the image in index.html to float left and added a border */
 .my-picture {
     float: left;
     border: 2px solid green;
 }
-
+/* added font style and color to the headings h2 */
 .h2{
   font-family: 'Georgia', Times, Times New Roman, serif;
   color: teal;
 }
-
+/* added banners to the pictures in Portfolio.html  */
 .pic-banner{
   bottom: 60px;
   position: relative;
@@ -30,7 +30,7 @@ body{
   border: 1px solid black;
   padding: 10px;
 }
-
+/* added the bar to the footer, moved the text to the center, added color to text  */
 footer {
     border-top: 5px solid green;
     height: 60px;
@@ -38,11 +38,3 @@ footer {
     text-align: center;
     color: red
 }
-
-
-
-/* @media screen and (min-width: 680px) {
- body {
-    width: 100%;
-  }
-} */
