@@ -124,27 +124,36 @@ line 44 <!-- added a container -->
 
 line 46 <!-- added a row -->
 
+line 48 <!-- added a column, a background color, a margin top and a margin bottom -->
 
+line 50 <!-- added a heading h2, bold text and About Me text -->
 
+line 52 <!-- added a thematic break -->
 
+line 55 <!-- added a image, a description for the picture, a class and margin right -->
 
+line 57 <!-- added 2 lorem text paragraphs -->
 
+line 77 <!-- added a footer, a class and a background -->
 
+line 79 <!-- added a class -->
 
+line 81 <!-- added a class, a padding top, a copyright icon, a fire icon and the text -->
 
-
-
-
-
-
-
-
-
-
-
+line 86 <!-- added the code for javascrpit from bootstrap introduction -->
 
 # CSS file
+line 2 /* made a box for my name in the navbar */
 
+line 10 /* added a background image  */
+
+line 14 /* made the image in index.html to float left and added a border */
+
+line 19 /* added font style and color to the headings h2 */
+
+line 24 /* added banners to the pictures in Portfolio.html  */
+
+line 34 /* added the bar to the footer, moved the text to the center, added color to text  */
 
 ## License
 
