@@ -1,6 +1,19 @@
 # responsive_portfolio
 ## Description 
-# HTML file
+This is the second homework it requires to have a responsive design that web applications render well on a variety of devices and window or screen sizes. make 3 html files: `contact.html`, `index.html` and `portfolio.html`. Make an assests folder, inside that folder make a css folder and an images folder. inside the css folder make a `style.css` file, inside the image folder put all the images for the project.
+# contact html file
+
+
+
+
+# index html file
+
+
+
+
+
+
+# portfolio html file
 
 
 
