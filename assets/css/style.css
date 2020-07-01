@@ -12,8 +12,10 @@ body{
 }
 /* made the image in index.html to float left and added a border */
 .my-picture {
-    float: left;
-    border: 2px solid green;
+  width: 250px;
+  height: 350px;
+  float: left;
+  border: 2px solid green;
 }
 /* added font style and color to the headings h2 */
 .h2{
