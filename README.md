@@ -6,7 +6,7 @@ This is the second homework it requires to have a responsive design using Bootst
 <img src ="./assets/images/screenshot.png" width="400">
 
 # link to deployed app
-https://github.com/eradicador/Code-Quiz
+https://github.com/eradicador/Responsive-Portfolio
 
 # contact html file
 line 8 !-- added the css stylesheet from bootstrap site introduction -->
