@@ -1,6 +1,13 @@
 # responsive_portfolio
 ## Description 
 This is the second homework it requires to have a responsive design using Bootstrap ensuring that web applications render well on a variety of devices and window or screen sizes. make 3 html files: `contact.html`, `index.html` and `portfolio.html`. Make an assests folder, inside that folder make a css folder and an images folder. inside the css folder make a `style.css` file, inside the image folder put all the images for the project.
+
+# screenshot 
+<img src ="./assets/images/screenshot.png" width="400">
+
+# link to deployed app
+https://github.com/eradicador/Code-Quiz
+
 # contact html file
 line 8 !-- added the css stylesheet from bootstrap site introduction -->
 
