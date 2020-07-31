@@ -1,14 +1,14 @@
-# responsive_portfolio
+# Responsive-Portfolio
 ## Description 
 This is the second homework it requires to have a responsive design using Bootstrap ensuring that web applications render well on a variety of devices and window or screen sizes. make 3 html files: `contact.html`, `index.html` and `portfolio.html`. Make an assests folder, inside that folder make a css folder and an images folder. inside the css folder make a `style.css` file, inside the image folder put all the images for the project.
 
-# screenshot 
+## Screenshot 
 <img src ="./assets/images/screenshot.png" width="400">
 
-# link to deployed app
-https://github.com/eradicador/Responsive-Portfolio
+## Link To Deployed App
+https://eradicador.github.io/Responsive-Portfolio/
 
-# contact html file
+## Contact Html File
 line 8 !-- added the css stylesheet from bootstrap site introduction -->
 
 line 12 !-- changed the title name -->
@@ -55,7 +55,7 @@ line 85 !-- added a class, a padding top, a copyright icon, a fire icon and the 
 
 line 90 !-- added the code for javascrpit from bootstrap introduction -->
 
-# index html file
+## Index Html File
 line 8 !-- added the css stylesheet from bootstrap site introduction -->
 
 line 12 !-- changed the title name -->
@@ -112,7 +112,7 @@ line 99 !-- added a class, a padding top, a copyright icon, a fire icon and the 
 
 line 104 !-- added the code for javascrpit from bootstrap introduction -->
 
-# portfolio html file
+## Portfolio Html File
 line 8 !-- added the css stylesheet from bootstrap site introduction -->
 
 line 12 !-- changed the title name -->
@@ -149,7 +149,7 @@ line 81 !-- added a class, a padding top, a copyright icon, a fire icon and the 
 
 line 86 !-- added the code for javascrpit from bootstrap introduction -->
 
-# CSS file
+## CSS File
 line 2 /* made a box for my name in the navbar */
 
 line 10 /* added a background image  */
