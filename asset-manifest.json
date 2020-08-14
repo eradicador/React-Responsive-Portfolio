@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Responsive-Portfolio/static/css/main.7a56e844.chunk.css",
+    "main.js": "/React-Responsive-Portfolio/static/js/main.1052d1d1.chunk.js",
+    "main.js.map": "/React-Responsive-Portfolio/static/js/main.1052d1d1.chunk.js.map",
+    "runtime-main.js": "/React-Responsive-Portfolio/static/js/runtime-main.6868dcd2.js",
+    "runtime-main.js.map": "/React-Responsive-Portfolio/static/js/runtime-main.6868dcd2.js.map",
+    "static/js/2.dd4bfb36.chunk.js": "/React-Responsive-Portfolio/static/js/2.dd4bfb36.chunk.js",
+    "static/js/2.dd4bfb36.chunk.js.map": "/React-Responsive-Portfolio/static/js/2.dd4bfb36.chunk.js.map",
+    "index.html": "/React-Responsive-Portfolio/index.html",
+    "precache-manifest.e2ee29293731fe4525afdf581c48cf66.js": "/React-Responsive-Portfolio/precache-manifest.e2ee29293731fe4525afdf581c48cf66.js",
+    "service-worker.js": "/React-Responsive-Portfolio/service-worker.js",
+    "static/css/main.7a56e844.chunk.css.map": "/React-Responsive-Portfolio/static/css/main.7a56e844.chunk.css.map",
+    "static/js/2.dd4bfb36.chunk.js.LICENSE.txt": "/React-Responsive-Portfolio/static/js/2.dd4bfb36.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/React-Responsive-Portfolio/static/media/crossline-lines.8269fa01.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6868dcd2.js",
+    "static/js/2.dd4bfb36.chunk.js",
+    "static/css/main.7a56e844.chunk.css",
+    "static/js/main.1052d1d1.chunk.js"
+  ]
+}
