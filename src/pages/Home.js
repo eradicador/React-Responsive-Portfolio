@@ -26,8 +26,8 @@ function Home() {
                         doing upgrades, software installation and repairs.
                             <ul>
                                 <li><a href="./assets/pdf/MICHAEL RESUME 2020.pdf">Link to my resume</a></li>
-                                <li><a href="https://github.com/eradicador">Link to my Github profile</a></li>
-                                <li><a href="https://www.linkedin.com/in/michael-amaya-0a6914bb/">Link to my LinkedIn page</a>
+                                <li><a href="https://github.com/eradicador" target="_blank" rel="noopener noreferrer">Link to my Github profile</a></li>
+                                <li><a href="https://www.linkedin.com/in/michael-amaya-0a6914bb/" target="_blank" rel="noopener noreferrer">Link to my LinkedIn page</a>
                                 </li>
                                 <li>My email address: janisepinto@yahoo.com</li>
                                 <li>My phone number: 407-744-6339</li>
