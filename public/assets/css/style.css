@@ -34,9 +34,13 @@ body{
 }
 /* added the bar to the footer, moved the text to the center, added color to text  */
 footer {
-    border-top: 5px solid green;
-    height: 60px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-    color: white
-}
+  border-top: 5px solid green;
+  height: 60px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  color: white
+/* }
+.col-lg-4{
+background-color: black;
+
+} */
