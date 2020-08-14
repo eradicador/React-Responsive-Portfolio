@@ -1,6 +1,7 @@
 # React-Responsive-Portfolio
+
 ## Description 
-This is the second homework it requires to have a responsive design using Bootstrap ensuring that web applications render well on a variety of devices and window or screen sizes. make 3 html files: `contact.html`, `index.html` and `portfolio.html`. Make an assests folder, inside that folder make a css folder and an images folder. inside the css folder make a `style.css` file, inside the image folder put all the images for the project.
+As a developer i created a portfolio app, the app has a responsive design using Bootstrap ensuring that web applications render well on a variety of devices and window or screen sizes. The application was made with React.js library, the app uses dynamic routing that allows you to handle routes in a web app.  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
