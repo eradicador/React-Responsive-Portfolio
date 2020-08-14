@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 import Projects from "./pages/Projects";
 // import Contact from "./pages/Contact";
 import Header from "./components/Header";
-// import Footer from "./components/Footer";
+import Footer from "./components/Footer";
 import "./style.css"
 function App() {
   return (
@@ -16,8 +16,8 @@ function App() {
           <Route exact path="/" component={Home} />
           <Route exact path="/portfolio" component={Projects}/>
           {/* <Route exact path="/contact" component={Contact} /> */}
-          {/* <Route exact path="/" component={Footer} /> */}
         </Switch>
+        <Footer />
       </div>
     </Router>
   );

@@ -1,9 +1,14 @@
-<!-- added a footer, a class and a background -->
-    <footer class="footer bg-dark">
-        <!-- added a class -->
-        <div class="container">
-            <!-- added a class, a padding top, a copyright icon, a fire icon and the text -->
-            <p class="pt-3"> &copy; &#x1F525; 2020 Copyright, Inc.
+import React from "react"
+
+function Footer() {
+    return (
+
+        <footer className="footer bg-dark">
+            <div className="container">
+                <p className="pt-3"> <span role="img" aria-label="fire">&copy; &#x1F525;</span> 2020 Copyright, Inc.
             </p>
-        </div>
-    </footer>
+            </div>
+        </footer>
+    )
+}
+export default Footer
