@@ -1,0 +1,46 @@
+/* made a box for my name in the navbar */
+.navbar-brand {
+  color: whitesmoke;
+  background-color: teal;
+  width: 165px;
+  border: 1px solid green;
+  padding: 10px;
+}
+/* added a background image  */
+body{
+  background-image: url("../images/crossline-lines.png");
+}
+/* made the image in index.html to float left and added a border */
+.my-picture {
+  width: 250px;
+  height: 350px;
+  float: left;
+  border: 2px solid green;
+}
+/* added font style and color to the headings h2 */
+.h2{
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  color: teal;
+}
+/* added banners to the pictures in Portfolio.html  */
+.pic-banner{
+  bottom: 60px;
+  position: relative;
+  color: whitesmoke;
+  background-color: teal;
+  width: 250px;
+  border: 1px solid black;
+  padding: 10px;
+}
+/* added the bar to the footer, moved the text to the center, added color to text  */
+footer {
+  border-top: 5px solid green;
+  height: 60px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  color: white
+/* }
+.col-lg-4{
+background-color: black;
+
+} */
