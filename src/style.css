@@ -8,7 +8,7 @@
   }
   /* added a background image  */
   body{
-    /* background-image: url("../images/crossline-lines.png"); */
+    background-image: url("./crossline-lines.png");
   }
   /* made the image in index.html to float left and added a border */
   .my-picture {
@@ -34,14 +34,10 @@
   }
   /* added the bar to the footer, moved the text to the center, added color to text  */
   footer {
-    border-top: 5px solid green;
-    height: 60px;
+    border-top: 3px solid green;
+    height: 57px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    color: white
+    color: white;
   }
-  /* }
-  .col-lg-4{
-  background-color: black;
   
-  } */
