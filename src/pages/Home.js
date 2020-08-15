@@ -1,4 +1,7 @@
 import React from "react"
+import Professional from "./images/Professional_2020.jpg"
+import {Link} from "react-router-dom"
+// import Resume from ".images//Michael_Resume_2020.pdf"
 
 function Home() {
     return (
@@ -8,7 +11,7 @@ function Home() {
                 <div className="col-lg-9 bg-light mt-4 p-4 mb-5">
                     <h2 className="h2 font-weight-bolder">About Me</h2>
                     <div>
-                        <img src="./professional_2020.jpg" alt="my professional pic" className="my-picture mr-4"></img>
+                        <img src={Professional} alt="my professional pic" className="my-picture mr-4" />
                         <p>My name is Michael Amaya at the moment i'm a student at UCF i'm taking the coding/Programming
                         course in which I will learn the following programming languages: HTML5, CSS3, JavaScript,
                         jQuery, Node.js, Responsive Design, Heroku, Git, User Authentication, PHP frameworks like
@@ -23,7 +26,7 @@ function Home() {
                         degree in CET: computer engineneering technolgy since then I always been working with computers
                         doing upgrades, software installation and repairs.</p>
                         <ul>
-                            <li><a href="./MICHAEL_RESUME_2020.pdf">Link to my resume</a></li>
+                            <li><Link to="./images/Michael_Resume_2020.pdf">Link to my resume</Link></li>
                             <li><a href="https://github.com/eradicador" target="_blank" rel="noopener noreferrer">Link to my Github profile</a></li>
                             <li><a href="https://www.linkedin.com/in/michael-amaya-0a6914bb/" target="_blank" rel="noopener noreferrer">Link to my LinkedIn page</a>
                             </li>
