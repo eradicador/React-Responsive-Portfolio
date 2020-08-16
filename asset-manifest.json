@@ -1,23 +1,29 @@
 {
   "files": {
     "main.css": "/React-Responsive-Portfolio/static/css/main.7a56e844.chunk.css",
-    "main.js": "/React-Responsive-Portfolio/static/js/main.5f47cba2.chunk.js",
-    "main.js.map": "/React-Responsive-Portfolio/static/js/main.5f47cba2.chunk.js.map",
+    "main.js": "/React-Responsive-Portfolio/static/js/main.616aaa1b.chunk.js",
+    "main.js.map": "/React-Responsive-Portfolio/static/js/main.616aaa1b.chunk.js.map",
     "runtime-main.js": "/React-Responsive-Portfolio/static/js/runtime-main.6868dcd2.js",
     "runtime-main.js.map": "/React-Responsive-Portfolio/static/js/runtime-main.6868dcd2.js.map",
-    "static/js/2.dd4bfb36.chunk.js": "/React-Responsive-Portfolio/static/js/2.dd4bfb36.chunk.js",
-    "static/js/2.dd4bfb36.chunk.js.map": "/React-Responsive-Portfolio/static/js/2.dd4bfb36.chunk.js.map",
+    "static/js/2.6d0f7347.chunk.js": "/React-Responsive-Portfolio/static/js/2.6d0f7347.chunk.js",
+    "static/js/2.6d0f7347.chunk.js.map": "/React-Responsive-Portfolio/static/js/2.6d0f7347.chunk.js.map",
     "index.html": "/React-Responsive-Portfolio/index.html",
-    "precache-manifest.f112b579609641b19aa15dcc62a6ef02.js": "/React-Responsive-Portfolio/precache-manifest.f112b579609641b19aa15dcc62a6ef02.js",
+    "precache-manifest.a920581a5580efec5872cf32956e581d.js": "/React-Responsive-Portfolio/precache-manifest.a920581a5580efec5872cf32956e581d.js",
     "service-worker.js": "/React-Responsive-Portfolio/service-worker.js",
     "static/css/main.7a56e844.chunk.css.map": "/React-Responsive-Portfolio/static/css/main.7a56e844.chunk.css.map",
-    "static/js/2.dd4bfb36.chunk.js.LICENSE.txt": "/React-Responsive-Portfolio/static/js/2.dd4bfb36.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/React-Responsive-Portfolio/static/media/crossline-lines.8269fa01.png"
+    "static/js/2.6d0f7347.chunk.js.LICENSE.txt": "/React-Responsive-Portfolio/static/js/2.6d0f7347.chunk.js.LICENSE.txt",
+    "static/media/Michael_Resume_2020.pdf": "/React-Responsive-Portfolio/static/media/Michael_Resume_2020.d5695d3c.pdf",
+    "static/media/Professional_2020.jpg": "/React-Responsive-Portfolio/static/media/Professional_2020.621b31c3.jpg",
+    "static/media/Unheard_Stories.png": "/React-Responsive-Portfolio/static/media/Unheard_Stories.b5f6bdfa.png",
+    "static/media/style.css": "/React-Responsive-Portfolio/static/media/crossline-lines.8269fa01.png",
+    "static/media/eat da burger.png": "/React-Responsive-Portfolio/static/media/eat da burger.bcaf7a4c.png",
+    "static/media/streamjunkie.png": "/React-Responsive-Portfolio/static/media/streamjunkie.8ab837b9.png",
+    "static/media/work day scheduler.png": "/React-Responsive-Portfolio/static/media/work day scheduler.8f0b64b8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6868dcd2.js",
-    "static/js/2.dd4bfb36.chunk.js",
+    "static/js/2.6d0f7347.chunk.js",
     "static/css/main.7a56e844.chunk.css",
-    "static/js/main.5f47cba2.chunk.js"
+    "static/js/main.616aaa1b.chunk.js"
   ]
 }
