@@ -6,7 +6,7 @@ function Header() {
 
         <nav className="navbar navbar-expand-lg navbar-light bg-light pt-0 pb-0">
             <div className="container">
-                <a className="navbar-brand font-weight-bolder" href="index.html">Michael Amaya</a>
+                <Link className="navbar-brand font-weight-bolder" to="/">Michael Amaya</Link>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
                     aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
