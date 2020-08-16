@@ -1,7 +1,6 @@
 import React from "react"
 import Professional from "./images/Professional_2020.jpg"
-import {Link} from "react-router-dom"
-// import Resume from ".images//Michael_Resume_2020.pdf"
+
 
 function Home() {
     return (
@@ -26,7 +25,7 @@ function Home() {
                         degree in CET: computer engineneering technolgy since then I always been working with computers
                         doing upgrades, software installation and repairs.</p>
                         <ul>
-                            <li><Link to="./images/Michael_Resume_2020.pdf">Link to my resume</Link></li>
+                            <li><a href={require("./images/Michael_Resume_2020.pdf")} target = "blank" rel="noopener noreferrer">Link to my resume</a></li>
                             <li><a href="https://github.com/eradicador" target="_blank" rel="noopener noreferrer">Link to my Github profile</a></li>
                             <li><a href="https://www.linkedin.com/in/michael-amaya-0a6914bb/" target="_blank" rel="noopener noreferrer">Link to my LinkedIn page</a>
                             </li>
