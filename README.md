@@ -45,7 +45,7 @@ You will also see any lint errors in the console.
 ```
 
 ## Link To Deployed App
-<a href="http://eradicador.github.io/React-Responsive-Portfolio/" target="_blank">My GitHub pages deployed App</a> 
+http://eradicador.github.io/React-Responsive-Portfolio/
 
 ## Badge
 ![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen)
