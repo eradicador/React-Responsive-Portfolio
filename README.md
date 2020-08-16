@@ -18,7 +18,7 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ## Screenshot 
-<img src ="./public/assets/images/screenshot.png" width="400">
+<img src ="./src/pages/images/screenshot.png" width="400">
 
 ## Directory structure
 ```
@@ -45,7 +45,7 @@ You will also see any lint errors in the console.
 ```
 
 ## Link To Deployed App
-![My GitHub pages App](http://eradicador.github.io/React-Responsive-Portfolio/)
+<a href="http://eradicador.github.io/React-Responsive-Portfolio/" target="_blank">My GitHub pages deployed App</a> 
 
 ## Badge
 ![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen)
