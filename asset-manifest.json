@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/React-Responsive-Portfolio/static/css/main.7a56e844.chunk.css",
-    "main.js": "/React-Responsive-Portfolio/static/js/main.616aaa1b.chunk.js",
-    "main.js.map": "/React-Responsive-Portfolio/static/js/main.616aaa1b.chunk.js.map",
+    "main.js": "/React-Responsive-Portfolio/static/js/main.6138043f.chunk.js",
+    "main.js.map": "/React-Responsive-Portfolio/static/js/main.6138043f.chunk.js.map",
     "runtime-main.js": "/React-Responsive-Portfolio/static/js/runtime-main.6868dcd2.js",
     "runtime-main.js.map": "/React-Responsive-Portfolio/static/js/runtime-main.6868dcd2.js.map",
-    "static/js/2.6d0f7347.chunk.js": "/React-Responsive-Portfolio/static/js/2.6d0f7347.chunk.js",
-    "static/js/2.6d0f7347.chunk.js.map": "/React-Responsive-Portfolio/static/js/2.6d0f7347.chunk.js.map",
+    "static/js/2.92635eb5.chunk.js": "/React-Responsive-Portfolio/static/js/2.92635eb5.chunk.js",
+    "static/js/2.92635eb5.chunk.js.map": "/React-Responsive-Portfolio/static/js/2.92635eb5.chunk.js.map",
     "index.html": "/React-Responsive-Portfolio/index.html",
-    "precache-manifest.a920581a5580efec5872cf32956e581d.js": "/React-Responsive-Portfolio/precache-manifest.a920581a5580efec5872cf32956e581d.js",
+    "precache-manifest.a37b7684209effe7146885cc0d222cfc.js": "/React-Responsive-Portfolio/precache-manifest.a37b7684209effe7146885cc0d222cfc.js",
     "service-worker.js": "/React-Responsive-Portfolio/service-worker.js",
     "static/css/main.7a56e844.chunk.css.map": "/React-Responsive-Portfolio/static/css/main.7a56e844.chunk.css.map",
-    "static/js/2.6d0f7347.chunk.js.LICENSE.txt": "/React-Responsive-Portfolio/static/js/2.6d0f7347.chunk.js.LICENSE.txt",
+    "static/js/2.92635eb5.chunk.js.LICENSE.txt": "/React-Responsive-Portfolio/static/js/2.92635eb5.chunk.js.LICENSE.txt",
     "static/media/Michael_Resume_2020.pdf": "/React-Responsive-Portfolio/static/media/Michael_Resume_2020.d5695d3c.pdf",
     "static/media/Professional_2020.jpg": "/React-Responsive-Portfolio/static/media/Professional_2020.621b31c3.jpg",
     "static/media/Unheard_Stories.png": "/React-Responsive-Portfolio/static/media/Unheard_Stories.b5f6bdfa.png",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6868dcd2.js",
-    "static/js/2.6d0f7347.chunk.js",
+    "static/js/2.92635eb5.chunk.js",
     "static/css/main.7a56e844.chunk.css",
-    "static/js/main.616aaa1b.chunk.js"
+    "static/js/main.6138043f.chunk.js"
   ]
 }
