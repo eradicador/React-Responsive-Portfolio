@@ -27,15 +27,14 @@
     color: teal;
   }
   /* added banners to the pictures in Portfolio.html  */
-  /* .pic-banner{
-    bottom: 60px;
-    position: relative;
-    color: whitesmoke;
-    background-color: teal;
-    width: 250px;
-    border: 1px solid black;
+  .pic-banner{
+    color: teal;
     padding: 10px;
-  } */
+  }
+
+  .col-lg-12{
+    border-bottom: 1px solid black;
+  }
   /* added the bar to the footer, moved the text to the center, added color to text  */
   footer {
     opacity: 0.7;
