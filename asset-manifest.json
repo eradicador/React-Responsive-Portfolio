@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/React-Responsive-Portfolio/static/css/main.7959ed6e.chunk.css",
-    "main.js": "/React-Responsive-Portfolio/static/js/main.e587bb3b.chunk.js",
-    "main.js.map": "/React-Responsive-Portfolio/static/js/main.e587bb3b.chunk.js.map",
+    "main.js": "/React-Responsive-Portfolio/static/js/main.77632376.chunk.js",
+    "main.js.map": "/React-Responsive-Portfolio/static/js/main.77632376.chunk.js.map",
     "runtime-main.js": "/React-Responsive-Portfolio/static/js/runtime-main.6868dcd2.js",
     "runtime-main.js.map": "/React-Responsive-Portfolio/static/js/runtime-main.6868dcd2.js.map",
     "static/js/2.899121bc.chunk.js": "/React-Responsive-Portfolio/static/js/2.899121bc.chunk.js",
     "static/js/2.899121bc.chunk.js.map": "/React-Responsive-Portfolio/static/js/2.899121bc.chunk.js.map",
     "index.html": "/React-Responsive-Portfolio/index.html",
-    "precache-manifest.9c0a468f9999cd1d862741ad26abd5fd.js": "/React-Responsive-Portfolio/precache-manifest.9c0a468f9999cd1d862741ad26abd5fd.js",
+    "precache-manifest.ba05800dae5380f08110a1c5b5c65766.js": "/React-Responsive-Portfolio/precache-manifest.ba05800dae5380f08110a1c5b5c65766.js",
     "service-worker.js": "/React-Responsive-Portfolio/service-worker.js",
     "static/css/main.7959ed6e.chunk.css.map": "/React-Responsive-Portfolio/static/css/main.7959ed6e.chunk.css.map",
     "static/js/2.899121bc.chunk.js.LICENSE.txt": "/React-Responsive-Portfolio/static/js/2.899121bc.chunk.js.LICENSE.txt",
-    "static/media/Michael Amaya Resume.pdf": "/React-Responsive-Portfolio/static/media/Michael Amaya Resume.7e6cbae5.pdf",
+    "static/media/Michael-Amaya-Resume.pdf": "/React-Responsive-Portfolio/static/media/Michael-Amaya-Resume.7e6cbae5.pdf",
     "static/media/Professional_2020.jpg": "/React-Responsive-Portfolio/static/media/Professional_2020.621b31c3.jpg",
     "static/media/Unheard_Stories.png": "/React-Responsive-Portfolio/static/media/Unheard_Stories.b5f6bdfa.png",
     "static/media/style.css": "/React-Responsive-Portfolio/static/media/crossline-lines.8269fa01.png",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.6868dcd2.js",
     "static/js/2.899121bc.chunk.js",
     "static/css/main.7959ed6e.chunk.css",
-    "static/js/main.e587bb3b.chunk.js"
+    "static/js/main.77632376.chunk.js"
   ]
 }
