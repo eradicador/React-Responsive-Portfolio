@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React-Responsive-Portfolio/static/css/main.7959ed6e.chunk.css",
-    "main.js": "/React-Responsive-Portfolio/static/js/main.77632376.chunk.js",
-    "main.js.map": "/React-Responsive-Portfolio/static/js/main.77632376.chunk.js.map",
+    "main.css": "/React-Responsive-Portfolio/static/css/main.4e3f97b9.chunk.css",
+    "main.js": "/React-Responsive-Portfolio/static/js/main.bf1de725.chunk.js",
+    "main.js.map": "/React-Responsive-Portfolio/static/js/main.bf1de725.chunk.js.map",
     "runtime-main.js": "/React-Responsive-Portfolio/static/js/runtime-main.6868dcd2.js",
     "runtime-main.js.map": "/React-Responsive-Portfolio/static/js/runtime-main.6868dcd2.js.map",
-    "static/js/2.899121bc.chunk.js": "/React-Responsive-Portfolio/static/js/2.899121bc.chunk.js",
-    "static/js/2.899121bc.chunk.js.map": "/React-Responsive-Portfolio/static/js/2.899121bc.chunk.js.map",
+    "static/js/2.6c3ea03b.chunk.js": "/React-Responsive-Portfolio/static/js/2.6c3ea03b.chunk.js",
+    "static/js/2.6c3ea03b.chunk.js.map": "/React-Responsive-Portfolio/static/js/2.6c3ea03b.chunk.js.map",
     "index.html": "/React-Responsive-Portfolio/index.html",
-    "precache-manifest.ba05800dae5380f08110a1c5b5c65766.js": "/React-Responsive-Portfolio/precache-manifest.ba05800dae5380f08110a1c5b5c65766.js",
+    "precache-manifest.491175860450d6debf9cd474c3cdfe3d.js": "/React-Responsive-Portfolio/precache-manifest.491175860450d6debf9cd474c3cdfe3d.js",
     "service-worker.js": "/React-Responsive-Portfolio/service-worker.js",
-    "static/css/main.7959ed6e.chunk.css.map": "/React-Responsive-Portfolio/static/css/main.7959ed6e.chunk.css.map",
-    "static/js/2.899121bc.chunk.js.LICENSE.txt": "/React-Responsive-Portfolio/static/js/2.899121bc.chunk.js.LICENSE.txt",
+    "static/css/main.4e3f97b9.chunk.css.map": "/React-Responsive-Portfolio/static/css/main.4e3f97b9.chunk.css.map",
+    "static/js/2.6c3ea03b.chunk.js.LICENSE.txt": "/React-Responsive-Portfolio/static/js/2.6c3ea03b.chunk.js.LICENSE.txt",
     "static/media/Michael-Amaya-Resume.pdf": "/React-Responsive-Portfolio/static/media/Michael-Amaya-Resume.7e6cbae5.pdf",
     "static/media/Professional_2020.jpg": "/React-Responsive-Portfolio/static/media/Professional_2020.621b31c3.jpg",
     "static/media/Unheard_Stories.png": "/React-Responsive-Portfolio/static/media/Unheard_Stories.b5f6bdfa.png",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6868dcd2.js",
-    "static/js/2.899121bc.chunk.js",
-    "static/css/main.7959ed6e.chunk.css",
-    "static/js/main.77632376.chunk.js"
+    "static/js/2.6c3ea03b.chunk.js",
+    "static/css/main.4e3f97b9.chunk.css",
+    "static/js/main.bf1de725.chunk.js"
   ]
 }
