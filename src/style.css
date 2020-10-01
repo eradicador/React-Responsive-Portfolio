@@ -1,9 +1,13 @@
 /* made a box for my name in the navbar */
 .navbar-brand {
+  font-weight: bolder;
     background-color: teal;
     width: 165px;
     border: 1px solid green;
     padding: 10px;
+  }
+  nav.navbar{
+    padding: 0%;
   }
   /* added a background image  */
   body{

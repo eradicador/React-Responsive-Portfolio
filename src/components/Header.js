@@ -6,21 +6,23 @@ import Navbar from "react-bootstrap/Navbar"
 function Header() {
     return (
         <Navbar bg="light" expand="lg">
-            <Navbar.Brand href="/">Michael Amaya</Navbar.Brand>
-            <Navbar.Toggle aria-controls="basic-navbar-nav" />
-            <Navbar.Collapse id="basic-navbar-nav">
-                <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
-                    <li className="nav-item">
-                        <Link className="nav-link" to="/">About</Link>
-                    </li>
-                    <li className="nav-item">
-                        <Link className="nav-link" to="/projects">Projects</Link>
-                    </li>
-                    <li className="nav-item">
-                        <Link className="nav-link" to="/contact">Contact</Link>
-                    </li>
-                </ul>
-            </Navbar.Collapse>
+            <div className="container">
+                <Navbar.Brand href="/">Michael Amaya</Navbar.Brand>
+                <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                <Navbar.Collapse id="basic-navbar-nav">
+                    <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
+                        <li className="nav-item">
+                            <Link className="nav-link" to="/">About</Link>
+                        </li>
+                        <li className="nav-item">
+                            <Link className="nav-link" to="/projects">Projects</Link>
+                        </li>
+                        <li className="nav-item">
+                            <Link className="nav-link" to="/contact">Contact</Link>
+                        </li>
+                    </ul>
+                </Navbar.Collapse>
+            </div>
         </Navbar>
 
         // <nav className="navbar navbar-expand-lg navbar-light bg-light pt-0 pb-0">
